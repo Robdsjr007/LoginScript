@@ -1,0 +1,19 @@
+[{
+"email": "cm9ic29uQGdtYWlsLmNvbQ==", "senha": "NDIzMjE=", "papel": "YWRtaW5pc3RyYWRvcg==", "login": "cm9ic29uQGdtYWlsLmNvbQ==NDIzMjE="
+},{
+"email": "aG9sZXNAZ21haWwuY29t", "senha": "NjU0MzM=", "papel": "YWRtaW5pc3RyYWRvcg==", "login": "aG9sZXNAZ21haWwuY29tNjU0MzM="
+},{
+"email": "cnRsb2dpbkBnbWFpbC5jb20=", "senha": "OTgzNDQ=", "papel": "ZnVuY2lvbsOhcmlv", "login": "cnRsb2dpbkBnbWFpbC5jb20=OTgzNDQ="
+},{
+"email": "bG91Y2FydEBob3RtYWlsLmNvbQ==", "senha": "MzQ0NDQ=", "papel": " Z2VyZW50ZQ==", "login": "bG91Y2FydEBob3RtYWlsLmNvbQ==MzQ0NDQ="
+},{
+"email": "ZGVuaXNkb2xocDEyQG91dGxvb2suY29t", "senha": "NTM1M2dvcjkw", "papel": "Z2VyZW50ZQ==", "login": "ZGVuaXNkb2xocDEyQG91dGxvb2suY29tNTM1M2dvcjkw" 
+},{
+"email": "ZmVybmFuZG9wZXJpczJAZ21haWwuY29t", "senha": "ZmVybmFuZG82OTI0", "papel": "ZnVuY2lvbsOhcmlv", "login": "ZmVybmFuZG9wZXJpczJAZ21haWwuY29tZmVybmFuZG82OTI0"
+}]
+
+
+
+
+
+
